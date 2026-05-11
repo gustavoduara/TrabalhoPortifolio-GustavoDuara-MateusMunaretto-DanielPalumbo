@@ -42,10 +42,6 @@ body {
   font-size: 0.9rem;
 }
 
-#menu a:hover {
-  text-decoration: underline;
-}
-
 section {
   max-width: 900px;
   margin: 40px auto;
@@ -108,10 +104,6 @@ section ul li {
   border-bottom: 1px solid #ddd;
 }
 
-#tabela-disciplinas tr:hover td {
-  background-color: #f0f0f0;
-}
-
 #cards {
   display: flex;
   gap: 20px;
@@ -127,10 +119,6 @@ section ul li {
   padding: 20px;
   text-align: center;
   background-color: #fafafa;
-}
-
-.card:hover {
-  border-color: #1a1a2e;
 }
 
 .avatar {
@@ -169,10 +157,6 @@ section ul li {
   font-size: 0.85rem;
 }
 
-.card a:hover {
-  background-color: #2e2e50;
-}
-
 #lista-curiosidades li {
   margin-bottom: 10px;
   line-height: 1.6;
@@ -188,6 +172,6 @@ section ul li {
   line-height: 1.8;
 }
 
-#img{
+img{
   border-radius: 20px;
 }
