@@ -187,3 +187,7 @@ section ul li {
   font-size: 0.88rem;
   line-height: 1.8;
 }
+
+#img{
+  border-radius: 20px;
+}
